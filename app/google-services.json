@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098020026886",
+    "project_id": "event-navigation-system",
+    "storage_bucket": "event-navigation-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098020026886:android:db21f82a80fa90766ca187",
+        "android_client_info": {
+          "package_name": "com.example.eventnavigationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098020026886-kaq4v08cf08tnqmgpfk03l2kh32cjq2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rxA9EtbFyXXd-zpUTELBkrmQk1nR9UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098020026886-kaq4v08cf08tnqmgpfk03l2kh32cjq2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
